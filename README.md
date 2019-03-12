@@ -26,6 +26,7 @@ Please find the [Wiring] schematic for further details.
 
 Watch the related [video] on Youtube for an in depth tutorial.
 
+[![DIY Eurorack Case](https://img.youtube.com/vi/7tzhh7atj4o/0.jpg)](https://www.youtube.com/watch?v=7tzhh7atj4o)
 
 [BOM]: EurorackPowerBOM_2019-03-02.xlsx
 [Wiring]: KiCad/Wiring/Wiring.pdf
